@@ -27,10 +27,16 @@ For inquiries, please send an e-mail to one of the organisers.
 
 
 ## Program Committee
-TBA 
+* Fosco Loregian
+* Maria Emilia Maietti
+* Giuseppe Metere
+* Davide Trotta 
 
 ## Organising Committee 
+* Cipriano Junior Cioffo
+* Maria Emilia Maietti 
 * Samuele Maschio (Università di Padova) 
+* Pietro Sabelli 
 
 ## Past Editions 
 * [ItaCa 2023](https://progetto-itaca.github.io/ItaCa-23/) 
