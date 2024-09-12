@@ -46,8 +46,8 @@ For inquiries, please send an e-mail to one of the organisers.
 
 ---
 
-![](assets/ailalogo.png)
+<!-- ![](assets/ailalogo.png "aila" =20%x) ![](assets/unipd_logo.png "torre" =70%x) -->
+<img src="assets/ailalogo.png" width="15%"/> <img src="assets/unipd_logo.png" width="65%"/> 
 
-![](assets/unipd_logo.png)
 
 
