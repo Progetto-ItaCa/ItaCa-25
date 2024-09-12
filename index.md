@@ -27,15 +27,15 @@ For inquiries, please send an e-mail to one of the organisers.
 
 
 ## Program Committee
-* Fosco Loregian
-* Maria Emilia Maietti
-* Giuseppe Metere
+* Fosco Loregian (Tallinn University of Technology)
+* Maria Emilia Maietti (Università degli studi di Padova)
+* Giuseppe Metere (Università degli studi di Milano)
 * Davide Trotta 
 
 ## Organising Committee 
 * Cipriano Junior Cioffo
-* Maria Emilia Maietti 
-* Samuele Maschio (Università di Padova) 
+* Maria Emilia Maietti (Università degli studi di Padova) 
+* Samuele Maschio (Università degli studi di Padova) 
 * Pietro Sabelli 
 
 ## Past Editions 
