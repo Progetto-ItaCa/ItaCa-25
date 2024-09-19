@@ -1,3 +1,5 @@
 GemFile.lock
 _site/
 .bundle/
+*.nix 
+

@@ -18,15 +18,16 @@ More information can be found [here]({{ '/register-submit/' | relative_url }}).
 
 ## Important Dates
 
-|**Submission deadline**   | TBS |
-|**Notification date**     | TBA |
-|**Registration deadline** | TBA |
+|**Submission deadline**   | 1st November 2024 |
+|**Notification date**     | 8th November 2024 |
+|**Registration deadline** | 15th November 2024 |
 |**Workshop**              | 19-20 December 2024 |
 
 
 ## Contacts 
 
-For inquiries, please send an e-mail to one of the organisers. 
+For inquiries, please send an e-mail to one of the organisers at  
+itaca2024 [at] math [dot] unipd [dot] it 
 
 
 ## Program Committee
