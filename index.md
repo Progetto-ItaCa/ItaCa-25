@@ -12,6 +12,9 @@ Students and early career researchers are particularly encouraged to attend and 
 
 The workshop will take place in person.
 
+If you wish to participate, please fill out [this form](https://docs.google.com/forms/d/1c04zzrEotXvTSE2s3VRK5WgnEn_8uq2PHs8qxsrb8cM/edit). 
+More information can be found [here]({{ '/register-submit/' | relative_url }}). 
+
 
 ## Important Dates
 
@@ -30,13 +33,13 @@ For inquiries, please send an e-mail to one of the organisers.
 * Fosco Loregian (Tallinn University of Technology)
 * Maria Emilia Maietti (Università degli studi di Padova)
 * Giuseppe Metere (Università degli studi di Milano)
-* Davide Trotta 
+* Davide Trotta (Università degli Studi di Padova) 
 
 ## Organising Committee 
-* Cipriano Junior Cioffo
+* Cipriano Junior Cioffo (Università degli Studi di Padova) 
 * Maria Emilia Maietti (Università degli studi di Padova) 
 * Samuele Maschio (Università degli studi di Padova) 
-* Pietro Sabelli 
+* Pietro Sabelli (Università degli Studi di Padova) 
 
 ## Past Editions 
 * [ItaCa 2023](https://progetto-itaca.github.io/ItaCa-23/) 

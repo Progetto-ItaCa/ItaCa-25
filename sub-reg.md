@@ -5,7 +5,7 @@ permalink: /register-submit/
 layout: page
 ---
 
-If you want to attend the workshop, please fill in the form available [here](https://docs.google.com/forms/d/1Ll3FUGLVgFHz0isxUiKvOqN1rH3UdmQiiNVevauKsKA/edit?pli=1).
+If you want to participate, please fill out [this form](https://docs.google.com/forms/d/1c04zzrEotXvTSE2s3VRK5WgnEn_8uq2PHs8qxsrb8cM/edit). 
 
 The registration deadline is **November 24**.
 Participation is free of charge, but registration is mandatory. 
