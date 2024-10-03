@@ -39,8 +39,9 @@ itaca2024 [at] math [dot] unipd [dot] it
 ## Organising Committee 
 * Cipriano Junior Cioffo (Università degli Studi di Padova) 
 * Maria Emilia Maietti (Università degli studi di Padova) 
-* Samuele Maschio (Università degli studi di Padova) 
+* Samuele Maschio (Università degli studi di Padova), *chair* 
 * Pietro Sabelli (Università degli Studi di Padova) 
+* Davide Trotta (Università degli Studi di Padova) 
 
 ## Past Editions 
 * [ItaCa 2023](https://progetto-itaca.github.io/ItaCa-23/) 
