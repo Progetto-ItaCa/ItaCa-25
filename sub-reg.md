@@ -10,8 +10,6 @@ If you want to participate, please fill out [this form](https://docs.google.com/
 The registration deadline is **November 15**.
 Participation is free of charge, but registration is mandatory. 
 
-Some funding is available to provide accommodation for speakers, with a preference for students and early career researchers. 
-
 
 ## Submission of talk proposals
 
