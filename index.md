@@ -18,9 +18,9 @@ More information can be found [here]({{ '/register-submit/' | relative_url }}).
 
 ## Important Dates
 
-|**Submission deadline**   | 1st November 2024 |
-|**Notification date**     | 8th November 2024 |
-|**Registration deadline** | 15th November 2024 |
+|**Submission deadline**   | 8th November 2024 |
+|**Notification date**     | 15th November 2024 |
+|**Registration deadline** | 19th November 2024 |
 |**Workshop**              | 19-20 December 2024 |
 
 
