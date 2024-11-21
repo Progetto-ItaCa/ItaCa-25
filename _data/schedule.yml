@@ -1,4 +1,4 @@
-- day: "December 18" 
+- day: "December 19" 
   slots:
   - type: "opening"
     time: "14:00 - 14:30"
@@ -29,7 +29,7 @@
   - type: "panel discussion"
     time: "17:30 - 18:00"
 
-- day: "December 19" 
+- day: "December 20" 
   slots: 
   
   - type: "talk"
