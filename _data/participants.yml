@@ -75,7 +75,7 @@
   affiliation: Universität Regensburg
 - name: Xabier
   surname: Maestre Gómez
-  affiliation: ''
+  affiliation:
 - name: Vikraman
   surname: Choudhury
   affiliation: Università di Bologna
@@ -96,7 +96,7 @@
   affiliation: Università di Torino
 - name: Christopher
   surname: Mary
-  affiliation: ''
+  affiliation:
 - name: Nicholas
   surname: Meadows
   affiliation: University of Bologna
