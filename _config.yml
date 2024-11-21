@@ -58,7 +58,7 @@ exclude:
   - Gemfile.lock
   # - speakers.md 
   # - programme.md
-  - participants.md
+  # - participants.md
 #  - sub-reg.md 
 #  - venue.md 
 #   - node_modules/
