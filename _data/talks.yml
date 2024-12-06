@@ -1,109 +1,103 @@
 accepted:
-  - author: Elena Caviglia
-    affiliation: University of Leicester 
-    title: "A notion of 2-stack"
-    abs: caviglia.pdf 
-    slot: "4b" 
+  - author: "Dagnino"
+    affiliation: "DIBRIS - Università di Genova"
+    title: "Doctrines of algebras as extensional quotient completions"
+    abs: DAGNINO.pdf
+    slot: "1" 
     video: 
-  - author: Francesco Dagnino
-    affiliation: Università di Genova 
-    title: "Quotients, extensionality and choice in Relational doctrines" 
-    abs: dagnino.pdf 
-    slot: "6c" 
+  - author: "Gavazzo"
+    affiliation: "University of Padua"
+    title: "An Allegorical Account of Operational Semantics"
+    abs: GAVAZZO.pdf
+    slot: "2" 
     video: 
-  - author: Matteo Doni
-    affiliation: 
-    title: Enriched infinity-categories 
-    abs: doni.pdf
-    slot: "6a" 
+  - author: "De Berardinis"
+    affiliation: "Università degli Studi di Milano"
+    title: "Presheaves as Kripke frames"
+    abs: DEBERARDINIS.pdf
+    slot: "3" 
     video: 
-  - author: Enrico Ghiorzi
-    affiliation: Università di Genova 
-    title: Relation Transformers 
-    abs: ghiorzi.pdf
-    slot: "6b" 
+  - author: "Guffanti"
+    affiliation: "University of Luxembourg"
+    title: "Quantifier-free formulas and quantifier alternation depth in doctrines."
+    abs: GUFFANTI.pdf
+    slot: "4" 
     video: 
-  - author: Amar Hadzihasanovic
-    affiliation: "Quantinum & Tallinn University of Technology" 
-    title: The homotopy poset of a category 
-    abs: hadzihasanovic.pdf
-    slot: "3a" 
+  - author: "Trotta"
+    affiliation: "University of Padua"
+    title: "Presheaves, Sheaves and Sheafification via triposes"
+    abs: TROTTA.pdf
+    slot: "5" 
     video: 
-  - author: Gabriele Lobbia
-    affiliation: 
-    title: "2-dimensional aspects of the theory of sketches" 
-    abs: lobbia.pdf
-    slot: "1b" 
+  - author: "Perrone"
+    affiliation: "University of Oxford"
+    title: "The Formal Theory of Random Variables"
+    abs: PERRONE.pdf
+    slot: "6" 
     video: 
-  - author: Fosco Loregian
-    affiliation: Tallinn University of Technology 
-    title: "Welcome to the machine: a tale of bicategories, with a hint of British prog" 
-    abs: loregian.pdf
-    slot: "3c" 
+  - author: "Lorenzin"
+    affiliation: "Universität Innsbruck"
+    title: "A Gel'fand duality adjunction for measurable spaces"
+    abs: LORENZIN.pdf
+    slot: "7" 
     video: 
-  - author: Antonio Lorenzin
-    affiliation: 
-    title: Involutive Markov categories and the quantum de Finetti theorem
-    abs: lorenzin.pdf
-    slot: "5b" 
+  - author: "Misurati"
+    affiliation: "University of Ferrara"
+    title: "Quasi-Hopf algebras of dimension 6"
+    abs: MISURATI.pdf
+    slot: "8" 
     video: 
-  - author: Manuel Mancini
-    affiliation: Università di Palermo 
-    title: Weak representability of actions of non-associative algebras
-    abs: mancini.pdf
-    slot: "2b" 
+  - author: "Campanini"
+    affiliation:
+    title: "Building pretorsion theories from torsion theories"
+    abs: CAMPANINI.pdf
+    slot: "9" 
     video: 
-  - author: Samuele Maschio
-    affiliation: Università di Padova 
-    title: On some categorical structures arising from implicative algebras 
-    abs: maschio.pdf
-    slot: "2c" 
+  - author: "Cappelletti"
+    affiliation:
+    title: "Torsion theories and factorization systems in a non-pointed context"
+    abs: CAPPELLETTI.pdf
+    slot: "10" 
     video: 
-  - author: Federico Olimpieri
-    affiliation: 
-    title: Coherence by Normalization for Linear Multicategories 
-    abs: olimpieri.pdf 
-    slot: "3b" 
+  - author: "Capucci"
+    affiliation:
+    title: "On categorical notions of context"
+    abs: CAPUCCI.pdf
+    slot: "11" 
     video: 
-  - author: Luca Mesiti
-    affiliation: University of Leeds 
-    title: Indexed Grothendieck Construction 
-    abs: mesiti.pdf
-    slot: "4c" 
+  - author: "Emmenegger"
+    affiliation: "Università di Genova"
+    title: "A 2-categorical analysis of context comprehension"
+    abs: EMMENEGGER.pdf
+    slot: "12" 
     video: 
-  - author: Paolo Perrone
-    affiliation: University of Oxford 
-    title: Conditional expectation as split idempotents 
-    abs: perrone.pdf
-    slot: "5a" 
+  - author: "Spadetto"
+    affiliation: "Università di Udine"
+    title: "Higher dimensional semantics of propositional dependent type theories"
+    abs: SPADETTO.pdf
+    slot: "13" 
     video: 
-  - author: Claudio Pisani
-    affiliation: 
-    title: An unbiased approach to symmetry 
-    abs: pisani.pdf
-    slot: "4a" 
+  - author: "Laretto"
+    affiliation: "Tallinn University of Technology"
+    title: "Directed equality with dinaturality"
+    abs: LARETTO.pdf
+    slot: "14" 
     video: 
-  - author: Tanjona Ralaivaosaona
-    affiliation: "LIACS, Leiden University" 
-    title: Composition and Recursion for Causal and Uniformly Continuous Structures 
-    abs: ralaivaosaona.pdf
-    slot: "5c" 
+  - author: "Pozzan"
+    affiliation: "Università di Torino"
+    title: "A Stone duality for the class of compact T1 spaces"
+    abs: POZZAN.pdf
+    slot: "15" 
     video: 
-  - author: "Ülo Reimaa" 
-    affiliation: 
-    title: Extensions and adjoint split extensions in the 2-category of adjunctions 
-    abs: reimaa.pdf
-    slot: "2a" 
+  - author: "Petrakis"
+    affiliation:
+    title: "Categories with dependent and codependent arrows"
+    abs: PETRAKIS.pdf
+    slot: "16" 
     video: 
-  - author: Giacomo Tendas
-    affiliation: Masarykova Univerzita
-    title: On continuity of functors between locally presentable categories 
-    abs: tendas.pdf
-    slot: "1a" 
-    video: 
-  - author: Joshua Wrigley
-    affiliation: 
-    title: A cylindrical Diaconescu’s equivalence
-    abs: wrigly.pdf
-    slot: "1c" 
-    video: 
+  - author: "Loregian"
+    affiliation: "Tallinn University of Technology"
+    title: "Differential automata theory"
+    abs: LOREGIAN.pdf
+    slot: "17" 
+    video:
