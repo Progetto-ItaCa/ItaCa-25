@@ -12,9 +12,6 @@ Students and early career researchers are particularly encouraged to attend and 
 
 The workshop will take place in person.
 
-If you wish to participate, please fill out [this form](https://docs.google.com/forms/d/1c04zzrEotXvTSE2s3VRK5WgnEn_8uq2PHs8qxsrb8cM/edit). 
-More information can be found [here]({{ '/register-submit/' | relative_url }}). 
-
 
 ## Important Dates
 
