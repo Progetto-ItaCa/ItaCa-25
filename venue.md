@@ -8,6 +8,7 @@ layout: page
 
 ### Venue
 
+Aula 2BC60, secondo piano corridoio BC, Torre Archimede  
 Dipartimento di Matematica "Tullio Levi-Civita"  
 Via Trieste 63  
 35131, Padova, Italy  
