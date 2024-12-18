@@ -1,14 +1,10 @@
 - day: "December 19" 
   slots:
   - type: "opening"
-    time: "14:00 - 14:30"
-  
-  - type: "talk"
-    id: "1"
     time: "14:30 - 15:00"
   
   - type: "talk"
-    id: "2"
+    id: "1"
     time: "15:00 - 15:30"
   
   - type: "talk"
