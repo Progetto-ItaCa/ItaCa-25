@@ -19,3 +19,5 @@ layout: page
 {%- include talk %} 
 {% endfor %}
 {%- endif -%}
+
+<img src="assets/group_photo.jpeg" width="95%"/>
