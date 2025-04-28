@@ -39,7 +39,7 @@ header_pages:
 #  - speakers.md
 #  - participants.md
 #  - sub-reg.md
-#  - venue.md
+  - venue.md
 
 
 # Exclude from processing.
@@ -56,10 +56,10 @@ exclude:
   - gemfiles/
   - Gemfile
   - Gemfile.lock
-  # - speakers.md 
-  # - programme.md
-  # - participants.md
-#  - sub-reg.md 
+  - speakers.md 
+  - programme.md
+  - participants.md
+  - sub-reg.md 
 #  - venue.md 
 #   - node_modules/
 #   - vendor/bundle/
