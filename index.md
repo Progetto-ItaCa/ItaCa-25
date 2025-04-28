@@ -27,11 +27,21 @@ For inquiries, please send an e-mail to one of the organisers.
 
 
 ## Program Committee
-TBA 
+* Ivan Di Liberti (chair, Göteborgs universitet)
+* Gabriele Lobbia (Università di Milano)
+* Luca Reggio (Università di Milano)
+* Martina Rovelli (UMass Amherst)
+* Pawel Sobocinski (Tallinn University of Technology)
+* Enrico M. Vitale (UCLouvain)
+* Joshua L. Wrigley (Université Paris Cité)
+
 
 ## Organising Committee 
-* Giuseppe Metere (Università degli Studi di Milano) 
-and others to be announced 
+* Gabriele Lobbia (Università di Milano)
+* Giuseppe Metere (chair, Università di Milano)
+* Andrea Montoli (Università di Milano)
+* Fabio Pasquali (Università di Milano)
+* Luca Reggio (Università di Milano)
 
 ## Past Editions 
 * [ItaCa 2024](https://progetto-itaca.github.io/ItaCa-24/) 
