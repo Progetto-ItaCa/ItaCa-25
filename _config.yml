@@ -38,7 +38,7 @@ header_pages:
 #  - programme.md
 #  - speakers.md
 #  - participants.md
-#  - sub-reg.md
+  - sub-reg.md
   - venue.md
 
 
@@ -59,7 +59,7 @@ exclude:
   - speakers.md 
   - programme.md
   - participants.md
-  - sub-reg.md 
+#  - sub-reg.md 
 #  - venue.md 
 #   - node_modules/
 #   - vendor/bundle/
