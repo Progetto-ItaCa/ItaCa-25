@@ -11,6 +11,7 @@ ItaCa Workshop is a series of short workshops organized by [ItaCa](https://proge
 Students and early career researchers are particularly encouraged to attend and to submit talk proposals.
 
 The workshop will take place in person.
+The program will start on the morning of December 22 and continue throughout the morning of December 23, 
 
 
 ## Important Dates
