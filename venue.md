@@ -18,6 +18,9 @@ Milano, Italy
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5595.532744186517!2d9.2272821!3d45.474509999999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4786c6f35ab634f3%3A0xb55f07b938092c45!2sVia%20Luigi%20Mangiagalli%2C%2025%2C%2020133%20Milano%20MI!5e0!3m2!1sit!2sit!4v1758384078097!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
+<br> 
+
+
 ### How to get to Milan.
  
 Milan is a major city in northern Italy. You can easily get there by plane, train or bus.
