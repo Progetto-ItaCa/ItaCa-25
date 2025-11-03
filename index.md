@@ -11,13 +11,14 @@ ItaCa Workshop is a series of short workshops organized by [ItaCa](https://proge
 Students and early career researchers are particularly encouraged to attend and to submit talk proposals.
 
 The workshop will take place in person.
+The program will start on the morning of December 22 and continue throughout the morning of December 23, 
 
 
 ## Important Dates
 
-|**Submission deadline**   | TBA |
-|**Notification date**     | TBA |
-|**Registration deadline** | TBA |
+|**Submission deadline**   | 18 November 2025 |
+|**Notification date**     | 25 November 2025 |
+|**Registration deadline** |  8 December 2025 |
 |**Workshop**              | 22-23 December 2025 |
 
 
@@ -27,11 +28,23 @@ For inquiries, please send an e-mail to one of the organisers.
 
 
 ## Program Committee
-TBA 
+* Ivan Di Liberti (chair, Göteborgs universitet)
+* Gabriele Lobbia (Università di Milano)
+* Luca Reggio (Università di Milano)
+* Martina Rovelli (UMass Amherst)
+* Pawel Sobocinski (Tallinn University of Technology)
+* Enrico M. Vitale (UCLouvain)
+* Joshua L. Wrigley (Université Paris Cité)
+
 
 ## Organising Committee 
-* Giuseppe Metere (Università degli Studi di Milano) 
-and others to be announced 
+* Francesco Dagnino (Università di Genova) 
+* Gabriele Lobbia (Università di Milano)
+* Giuseppe Metere (chair, Università di Milano)
+* Andrea Montoli (Università di Milano)
+* Fabio Pasquali (Università di Milano)
+* Luca Reggio (Università di Milano)
+* Vito Volpe (Università di Milano) 
 
 ## Past Editions 
 * [ItaCa 2024](https://progetto-itaca.github.io/ItaCa-24/) 
