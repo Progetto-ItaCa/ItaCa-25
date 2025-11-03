@@ -53,6 +53,11 @@ For inquiries, please send an e-mail to one of the organisers.
 * [ItaCa 2021](https://genoa-logic-group.github.io/itaca-workshop-2021/)
 * [ItaCa 2019](http://www.mat.unimi.it/users/itaca/) 
 
+---
+
+<img src="assets/logo-unimi.png" width="65%"/> 
+
+
 
 
 
