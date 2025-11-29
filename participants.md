@@ -5,6 +5,8 @@ permalink: /Participants/
 layout: page
 ---
 
+Registration is still open, so this page will be updated. 
+
 {% assign ps = site.data.participants | sort: 'surname' %}
 
 {% for p in ps %}

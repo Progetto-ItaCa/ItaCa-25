@@ -37,7 +37,7 @@ plugins:
 header_pages:
 #  - programme.md
 #  - speakers.md
-#  - participants.md
+  - participants.md
   - sub-reg.md
   - venue.md
 
@@ -58,7 +58,6 @@ exclude:
   - Gemfile.lock
   - speakers.md 
   - programme.md
-  - participants.md
 #  - sub-reg.md 
 #  - venue.md 
 #   - node_modules/
