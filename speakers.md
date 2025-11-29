@@ -5,12 +5,12 @@ permalink: /speakers/
 layout: page
 ---
 
-<!-- {%- if site.data.talks.invited -%}
+{%- if site.data.talks.invited -%}
 ## Invited Talks 
 {% for t in site.data.talks.invited %}
 {%- include talk %}
 {% endfor %}
-{%- endif -%} -->
+{%- endif -%} 
 
 
 {%- if site.data.talks.accepted -%}
@@ -20,4 +20,13 @@ layout: page
 {% endfor %}
 {%- endif -%}
 
-<img src="assets/group_photo.jpeg" width="95%"/>
+{%- if site.data.talks.posters -%}
+## Posters 
+{% for t in site.data.talks.posters  %}
+{%- include talk %} 
+{% endfor %}
+{%- endif -%}
+
+
+
+
