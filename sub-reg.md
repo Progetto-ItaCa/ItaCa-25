@@ -11,6 +11,7 @@ The registration deadline is **December 8**.
 Participation is free of charge, but registration is mandatory. 
 
 
+{% comment %} 
 ## Submission of talk proposals
 
 If you wish to give a talk, please submit an abstract (max 1 page in pdf excluding references), by sending an email to 
@@ -22,4 +23,6 @@ or to
 gabriele [dot] lobbia [at] unimi [dot] it 
 
 no later than **November 18**. Talks will be approximately 30 minutes long.
+
+{% endcomment %} 
 
