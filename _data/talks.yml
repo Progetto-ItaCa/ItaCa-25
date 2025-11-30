@@ -1,103 +1,14 @@
 accepted:
-  - author: "Dagnino"
-    affiliation: "DIBRIS - Università di Genova"
-    title: "Doctrines of algebras as extensional quotient completions"
-    abs: DAGNINO.pdf
-    slot: "1" 
+  - author: 
+    affiliation: 
+    title: 
+    abs: 
+    slot:  
     video: 
-  - author: "Gavazzo"
-    affiliation: "University of Padua"
-    title: "An Allegorical Account of Operational Semantics"
-    abs: GAVAZZO.pdf
-    slot: "2" 
+posters: 
+  - author: 
+    affiliation: 
+    title: 
+    abs: 
+    slot:  
     video: 
-  - author: "De Berardinis"
-    affiliation: "Università degli Studi di Milano"
-    title: "Presheaves as Kripke frames"
-    abs: DEBERARDINIS.pdf
-    slot: "3" 
-    video: 
-  - author: "Guffanti"
-    affiliation: "University of Luxembourg"
-    title: "Quantifier-free formulas and quantifier alternation depth in doctrines."
-    abs: GUFFANTI.pdf
-    slot: "4" 
-    video: 
-  - author: "Trotta"
-    affiliation: "University of Padua"
-    title: "Presheaves, Sheaves and Sheafification via triposes"
-    abs: TROTTA.pdf
-    slot: "5" 
-    video: 
-  - author: "Perrone"
-    affiliation: "University of Oxford"
-    title: "The Formal Theory of Random Variables"
-    abs: PERRONE.pdf
-    slot: "6" 
-    video: 
-  - author: "Lorenzin"
-    affiliation: "Universität Innsbruck"
-    title: "A Gel'fand duality adjunction for measurable spaces"
-    abs: LORENZIN.pdf
-    slot: "7" 
-    video: 
-  - author: "Misurati"
-    affiliation: "University of Ferrara"
-    title: "Quasi-Hopf algebras of dimension 6"
-    abs: MISURATI.pdf
-    slot: "8" 
-    video: 
-  - author: "Campanini"
-    affiliation:
-    title: "Building pretorsion theories from torsion theories"
-    abs: CAMPANINI.pdf
-    slot: "9" 
-    video: 
-  - author: "Cappelletti"
-    affiliation:
-    title: "Torsion theories and factorization systems in a non-pointed context"
-    abs: CAPPELLETTI.pdf
-    slot: "10" 
-    video: 
-  - author: "Capucci"
-    affiliation:
-    title: "On categorical notions of context"
-    abs: CAPUCCI.pdf
-    slot: "11" 
-    video: 
-  - author: "Emmenegger"
-    affiliation: "Università di Genova"
-    title: "A 2-categorical analysis of context comprehension"
-    abs: EMMENEGGER.pdf
-    slot: "12" 
-    video: 
-  - author: "Spadetto"
-    affiliation: "Università di Udine"
-    title: "Higher dimensional semantics of propositional dependent type theories"
-    abs: SPADETTO.pdf
-    slot: "13" 
-    video: 
-  - author: "Laretto"
-    affiliation: "Tallinn University of Technology"
-    title: "Directed equality with dinaturality"
-    abs: LARETTO.pdf
-    slot: "14" 
-    video: 
-  - author: "Pozzan"
-    affiliation: "Università di Torino"
-    title: "A Stone duality for the class of compact T1 spaces"
-    abs: POZZAN.pdf
-    slot: "15" 
-    video: 
-  - author: "Petrakis"
-    affiliation:
-    title: "Categories with dependent and codependent arrows"
-    abs: PETRAKIS.pdf
-    slot: "16" 
-    video: 
-  - author: "Loregian"
-    affiliation: "Tallinn University of Technology"
-    title: "Differential automata theory"
-    abs: LOREGIAN.pdf
-    slot: "17" 
-    video:

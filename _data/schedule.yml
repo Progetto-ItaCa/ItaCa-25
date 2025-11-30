@@ -1,92 +1,85 @@
-- day: "December 19" 
+- day: "Monday 22 December" 
   slots:
-  - type: "opening"
-    time: "14:30 - 15:00"
-  
+  - type: "registration & opening"
+    time: "08:30 - 09:00"
   - type: "talk"
     id: "1"
-    time: "15:00 - 15:30"
-  
+    time: "09:00 - 09:30"
+  - type: "talk"
+    id: "2"
+    time: "09:30 - 10:00"
   - type: "talk"
     id: "3"
-    time: "15:30 - 16:00"
-
-  - type: "coffee break"
-    time: "16:00 - 16:30"
+    time: "10:00 - 10:30"
+  
+  - type: "coffee break & posters"
+    time: "10:30 - 11:00"
   
   - type: "talk"
     id: "4"
-    time: "16:30 - 17:00"
-  
+    time: "11:00 - 11:00"
   - type: "talk"
     id: "5"
-    time: "17:00 - 17:30"
-  
-  - type: "panel discussion"
-    time: "17:30 - 18:30"
-
-- day: "December 20" 
-  slots: 
-  
+    time: "11:30 - 12:00"
   - type: "talk"
     id: "6"
-    time: "9:30 - 10:00"
+    time: "12:00 - 12:30"
+  
+  - type: lunch 
+    time: "12:30 - 14:30" 
   
   - type: "talk"
     id: "7"
-    time: "10:00 - 10:30"
-  
+    time: "14:30 - 15:00"
   - type: "talk"
     id: "8"
-    time: "10:30 - 11:00"
-
-  - type: "coffee break"
-    time: "11:00 - 11:30"
-  
+    time: "15:00 - 15:30"
   - type: "talk"
     id: "9"
-    time: "11:30 - 12:00"
+    time: "15:30 - 16:00"
+  
+  - type: "coffee break & posters"
+    time: "16:00 - 16:30" 
   
   - type: "talk"
     id: "10"
-    time: "12:00 - 12:30"
-  
+    time: "16:30 - 17:00"
   - type: "talk"
     id: "11"
-    time: "12:30 - 13:00"
- 
-  - type: "lunch"
-    time: "13:00 - 14:30"
-  
+    time: "17:00 - 17:30"
   - type: "talk" 
     id: "12" 
-    time: "14:30 - 15:00"
+    time: "17:30 - 18:00"
   
+  - type: social dinner
+    time: "20:00 - 23:00" 
+  
+- day: "Tuesday 23 December" 
+  slots: 
   - type: "talk" 
     id: "13" 
-    time: "15:00 - 15:30" 
-  
+    time: "09:00 - 09:30" 
   - type: "talk" 
     id: "14" 
-    time: "15:30 - 16:00"
-
-  - type: "coffee break" 
-    time: "16.00 - 16.30" 
-
-  
+    time: "09:30 - 10:00"
   - type: "talk" 
     id: "15" 
-    time: "16.30 - 17:00" 
+    time: "10.00 - 10:30" 
   
+  - type: "coffee break & posters" 
+    time: "10:30 - 11:30" 
+
   - type: "talk" 
     id: "16" 
-    time: "17:00 - 17:30" 
-  
+    time: "11:30 - 12:00" 
   - type: "talk" 
     id: "17" 
-    time: "17:30 - 18:00" 
- 
+    time: "12:00 - 12:30" 
+  - type: "talk" 
+    id: "18" 
+    time: "12:30 - 13:00" 
+  
   - type: "closing" 
-    time: "18:00 - " 
+    time: "13:00 - 13:10" 
 
 

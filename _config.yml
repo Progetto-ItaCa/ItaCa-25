@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-#  - programme.md
+  - programme.md
 #  - speakers.md
   - participants.md
   - sub-reg.md
@@ -57,7 +57,8 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - speakers.md 
-  - programme.md
+#  - participants.md
+#  - programme.md
 #  - sub-reg.md 
 #  - venue.md 
 #   - node_modules/
