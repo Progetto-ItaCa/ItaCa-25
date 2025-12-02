@@ -26,3 +26,24 @@ no later than **November 18**. Talks will be approximately 30 minutes long.
 
 {% endcomment %} 
 
+## Social Dinner 
+
+To confirm your participation in the social dinner, please fill out [this form](https://urlsand.esvalabs.com/?u=https%3A%2F%2Fdocs.google.com%2Fforms%2Fd%2Fe%2F1FAIpQLSf0edtlbPYUl0NrF-r-lci1Szm0ttgGwAbwyrBfeP-9EESI0w%2Fviewform%3Fusp%3Ddialog&e=ed7a584b&h=91fc4e4f&f=y&p=y)  by *December 8*. 
+
+- *PLACE*: [Birrificio Lambrate via Golgi](https://urlsand.esvalabs.com/?u=https%3A%2F%2Fmaps.app.goo.gl%2FDR9FvNyQFQyYv5yq8&e=ed7a584b&h=c12dcbe7&f=y&p=y)
+- *DATE AND TIME*: Monday 22 December, 20:00
+- *COST*: 40€ per person
+- *MENU*:
+    * Milanese Risotto (i.e. with saffron) made with casorett beer
+        * [V/VE: vegetarian/vegan version of the Milanese risotto]
+    * Goulash "alla Lambrate" with polenta
+        * [V: Polenta with porcini mushrooms and toma cheese]
+        * [VE: Polenta with porcini mushrooms]
+    * 2 drinks (beer / soft drinks / wine)
+    * Water and coffee
+
+We will be able to cover the cost of the social dinner only for speakers. 
+
+For any questions, contact gabriele [dot] lobbia [at] unimi [dot] it. 
+
+
