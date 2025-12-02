@@ -94,9 +94,6 @@
 - name: Stefano
   surname: Rosarin
   affiliation: University of Genoa
-- name: Pietro
-  surname: Sabelli
-  affiliation: Czech Academy of Sciences
 - name: Luca
   surname: Reggio
   affiliation: Università degli Studi di Milano
@@ -130,9 +127,6 @@
 - name: Joshua
   surname: Wrigley
   affiliation: Université Paris Cité
-- name: Yiqi
-  surname: Xu
-  affiliation: Universität Stuttgart
 - name: Giovanni
   surname: Zanin
   affiliation: Universität Regensburg - Università degli Studi di Padova
