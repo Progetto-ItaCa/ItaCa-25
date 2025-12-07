@@ -1,8 +1,4 @@
-{% if t.url %}
-[{{ t.author }}]({{ t.url }}) ({{ t.affiliation }})  
-{% else %}
-{{ t.author }} {%- if t.affiliation %} ({{ t.affiliation }}) {%- endif %}  
-{% endif -%}  
+{{ t.author.name }} {{ t.author.surname }} {%- if t.author.affiliation %} ({{ t.author.affiliation }}) {%- endif %}  
 **{{ t.title }}** <br/> 
 {%- if t.abs %}
 [abstract]({{ t.abs | prepend: '/assets/abstracts/' | relative_url }}){:target="_blank"}

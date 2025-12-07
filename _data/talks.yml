@@ -1,14 +1,154 @@
 accepted:
-  - author: 
-    affiliation: 
-    title: 
-    abs: 
-    slot:  
-    video: 
-posters: 
-  - author: 
-    affiliation: 
-    title: 
-    abs: 
-    slot:  
-    video: 
+  - author:
+      name: Elena
+      surname: Di Lavore
+      affiliation: University of Oxford
+    title: Program Logics Via Distributive Monoidal Categories
+    abs: dilavore.pdf
+    slot:
+    video:
+  - author:
+      name: Tim
+      surname: Lurdes
+      affiliation: University of Vienna
+    title: Higher Dagger Categories
+    abs: lurdes.pdf
+    slot:
+    video:
+  - author:
+      name: Paolo
+      surname: Perrone
+      affiliation: University of Oxford
+    title: The Higher Structure of Martingales
+    abs: perrone.pdf
+    slot:
+    video:
+  - author:
+      name: Amar
+      surname: Hadzihasanovic
+      affiliation: Tallinn University of Technology
+    title: Semi-Strictification of ($\infty$, n)-Categories
+    abs: hadzihasanovic.pdf
+    slot:
+    video:
+  - author:
+      name: Umberto
+      surname: Tarantino
+      affiliation: IRIF - Université Paris Cité
+    title: Toposes With Enough Points As Categories of Étale Spaces
+    abs: tarantino.pdf
+    slot:
+    video:
+  - author:
+      name: Luca
+      surname: Carai
+      affiliation: University of Milan
+    title: On The Lack of Colimits in Various Categories of BAOs and Heyting Algebras
+    abs: carai.pdf
+    slot:
+    video:
+  - author:
+      name: Marco
+      surname: Volpe
+      affiliation: University of Regensburg
+    title: Approximate Fibrations in Higher Topos Theory
+    abs: volpe.pdf
+    slot:
+    video:
+  - author:
+      name: Giacomo
+      surname: Tendas
+      affiliation: The University of Manchester
+    title: A Syntax For Exists Unique Up To Isomorphism
+    abs: tendas.pdf
+    slot:
+    video:
+  - author:
+      name: Manuel
+      surname: Mancini
+      affiliation: Dipartimento di Matematica e Informatica, Università degli Studi di Palermo
+    title: Towards A Notion of Coherent and Ideal Actions in Ideally Exact Contexts
+    abs: mancini.pdf
+    slot:
+    video:
+  - author:
+      name: Igor
+      surname: Bakovic
+      affiliation: Independent
+    title: Comma 2-Comonad and Its Cousins
+    abs: bakovic.pdf
+    slot:
+    video:
+  - author:
+      name: Fosco
+      surname: Loregian
+      affiliation: Tallinn University of Technology
+    title: The Universal Property of The CoKleisli-Kleisli Adjunction
+    abs: loregian.pdf
+    slot:
+    video:
+  - author:
+      name: Samuele
+      surname: Maschio
+      affiliation: Università di Padova
+    title: A Topos For Extended Weihrauch Degrees
+    abs: maschio.pdf
+    slot:
+    video:
+  - author:
+      name: Nicola
+      surname: Carissimi
+      affiliation: Université de Lille
+    title: Overview and Examples of Braided Monoidal Bicategories
+    abs: carissimi.pdf
+    slot:
+    video:
+  - author:
+      name: Luigi
+      surname: Caputi
+      affiliation: University of Bologna
+    title: Reachability Categories and Commuting Algebras of Quivers
+    abs: caputi.pdf
+    slot:
+    video:
+  - author:
+      name: Corentin
+      surname: Vienne
+      affiliation: WBI
+    title: Some Categorical Properties of Heyting Semilattices
+    abs: vienne.pdf
+    slot:
+    video:
+  - author:
+      name: Michele
+      surname: Riva
+      affiliation: University of Manchester
+    title: A Type Theory Beyond Animae
+    abs: riva.pdf
+    slot:
+    video:
+  - author:
+      name: Marco
+      surname: Abbadini
+      affiliation: Catholic University of Louvain
+    title: The Doctrinal Herbrand’s Theorem and Its Stone Dual
+    abs: abbadini.pdf
+    slot:
+    video:
+  - author:
+      name: Andrea
+      surname: Giusto
+      affiliation: Università di Genova
+    title: Fibrations With Comprehension and Their Completions
+    abs: giusto.pdf
+    slot:
+    video:
+posters:
+  - author:
+      name:
+      surname:
+      affiliation:
+    title:
+    abs:
+    slot:
+    video:
