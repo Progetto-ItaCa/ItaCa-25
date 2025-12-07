@@ -154,3 +154,36 @@
 - name: Francesco
   surname: Dagnino
   affiliation: Università di Genova
+- name: Enrico
+  surname: Vitale
+  affiliation: UCLouvain
+- name: Jacopo
+  surname: Emmenegger
+  affiliation: Università di Genova
+- name: Arturo
+  surname: De Faveri
+  affiliation: Université Paris Cité, CNRS, IRIF
+- name: Fiona
+  surname: Torzewska
+  affiliation: University of Bristol
+- name: Marco
+  surname: Alorti
+  affiliation: Università degli Studi di Milano
+- name: Alan
+  surname: Cigoli
+  affiliation: Università di Torino
+- name: Igor
+  surname: Baković
+  affiliation: Independent
+- name: Matteo
+  surname: Spadetto
+  affiliation: Nantes Université
+- name: Andrea
+  surname: Donati
+  affiliation: ''
+- name: Elena
+  surname: Di Lavore
+  affiliation: University of Oxford
+- name: Tim
+  surname: Lüders
+  affiliation: University of Vienna
