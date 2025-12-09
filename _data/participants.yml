@@ -55,9 +55,6 @@
 - name: Stefano
   surname: Luneia
   affiliation: University of Massachusetts Amherst
-- name: Manuel
-  surname: Mancini
-  affiliation: Dipartimento di Matematica e Informatica, Università degli Studi di Palermo
 - name: Samuele
   surname: Maschio
   affiliation: Università di Padova
@@ -187,3 +184,33 @@
 - name: Tim
   surname: Lüders 
   affiliation: University of Vienna
+- name: Andrea
+  surname: Gagna
+  affiliation: MSD
+- name: claudio
+  surname: pisani
+  affiliation: Liceo Gioberti
+- name: Tomáš
+  surname: Vítek
+  affiliation: Charles University, Prague
+- name: Ülo
+  surname: Reimaa
+  affiliation: University of Tartu
+- name: Giuseppe
+  surname: Leoncini
+  affiliation: Milano - Masaryk
+- name: Andrea
+  surname: Fontana
+  affiliation: Universita' degli Studi di Milano
+- name: Niccolò
+  surname: Fumai
+  affiliation: Università degli Studi di Milano
+- name: Lea
+  surname: Trogni
+  affiliation: Unimi
+- name: Matteo
+  surname: Galbiati
+  affiliation: Università di Milano
+- name: Elia
+  surname: Praderio
+  affiliation: Unimi
