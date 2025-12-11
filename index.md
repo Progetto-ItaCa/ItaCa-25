@@ -13,6 +13,8 @@ Students and early career researchers are particularly encouraged to attend and 
 The workshop will take place in person.
 The program will start on the morning of December 22 and continue throughout the morning of December 23, 
 
+You can download the flyer [here](/assets/flyer.pdf){:target="_blank"}. 
+
 
 ## Important Dates
 
