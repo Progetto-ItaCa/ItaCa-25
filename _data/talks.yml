@@ -5,15 +5,15 @@ accepted:
       affiliation: University of Oxford
     title: Program Logics Via Distributive Monoidal Categories
     abs: dilavore.pdf
-    slot:
+    slot: "15"
     video:
   - author:
       name: Tim
-      surname: Lüders 
+      surname: Lüders
       affiliation: University of Vienna
     title: Higher Dagger Categories
     abs: lurdes.pdf
-    slot:
+    slot: "17"
     video:
   - author:
       name: Paolo
@@ -21,7 +21,7 @@ accepted:
       affiliation: University of Oxford
     title: The Higher Structure of Martingales
     abs: perrone.pdf
-    slot:
+    slot: "18"
     video:
   - author:
       name: Amar
@@ -29,7 +29,7 @@ accepted:
       affiliation: Tallinn University of Technology
     title: Semi-Strictification of ($\infty$, n)-Categories
     abs: hadzihasanovic.pdf
-    slot:
+    slot: "6"
     video:
   - author:
       name: Umberto
@@ -37,7 +37,7 @@ accepted:
       affiliation: IRIF - Université Paris Cité
     title: Toposes With Enough Points As Categories of Étale Spaces
     abs: tarantino.pdf
-    slot:
+    slot: "11"
     video:
   - author:
       name: Luca
@@ -45,7 +45,7 @@ accepted:
       affiliation: University of Milan
     title: On The Lack of Colimits in Various Categories of BAOs and Heyting Algebras
     abs: carai.pdf
-    slot:
+    slot: "10"
     video:
   - author:
       name: Marco
@@ -53,7 +53,7 @@ accepted:
       affiliation: University of Regensburg
     title: Approximate Fibrations in Higher Topos Theory
     abs: volpe.pdf
-    slot:
+    slot: "5"
     video:
   - author:
       name: Giacomo
@@ -61,15 +61,15 @@ accepted:
       affiliation: The University of Manchester
     title: A Syntax For Exists Unique Up To Isomorphism
     abs: tendas.pdf
-    slot:
+    slot: "1"
     video:
   - author:
-      name: Federica 
+      name: Federica
       surname: Piazza
       affiliation: Dipartimento di Matematica e Informatica, Università degli Studi di Palermo
     title: Towards A Notion of Coherent and Ideal Actions in Ideally Exact Contexts
     abs: mancini.pdf
-    slot:
+    slot: "8"
     video:
   - author:
       name: Igor
@@ -77,7 +77,7 @@ accepted:
       affiliation: Independent
     title: Comma 2-Comonad and Its Cousins
     abs: bakovic.pdf
-    slot:
+    slot: "13"
     video:
   - author:
       name: Fosco
@@ -85,7 +85,7 @@ accepted:
       affiliation: Tallinn University of Technology
     title: The Universal Property of The CoKleisli-Kleisli Adjunction
     abs: loregian.pdf
-    slot:
+    slot: "14"
     video:
   - author:
       name: Samuele
@@ -93,7 +93,7 @@ accepted:
       affiliation: Università di Padova
     title: A Topos For Extended Weihrauch Degrees
     abs: maschio.pdf
-    slot:
+    slot: "4"
     video:
   - author:
       name: Nicola
@@ -101,7 +101,7 @@ accepted:
       affiliation: Université de Lille
     title: Overview and Examples of Braided Monoidal Bicategories
     abs: carissimi.pdf
-    slot:
+    slot: "16"
     video:
   - author:
       name: Luigi
@@ -109,7 +109,7 @@ accepted:
       affiliation: University of Bologna
     title: Reachability Categories and Commuting Algebras of Quivers
     abs: caputi.pdf
-    slot:
+    slot: "7"
     video:
   - author:
       name: Corentin
@@ -117,7 +117,7 @@ accepted:
       affiliation: WBI
     title: Some Categorical Properties of Heyting Semilattices
     abs: vienne.pdf
-    slot:
+    slot: "9"
     video:
   - author:
       name: Michele
@@ -125,7 +125,7 @@ accepted:
       affiliation: University of Manchester
     title: A Type Theory Beyond Animae
     abs: riva.pdf
-    slot:
+    slot: "2"
     video:
   - author:
       name: Marco
@@ -133,7 +133,7 @@ accepted:
       affiliation: Catholic University of Louvain
     title: The Doctrinal Herbrand’s Theorem and Its Stone Dual
     abs: abbadini.pdf
-    slot:
+    slot: "12"
     video:
   - author:
       name: Andrea
@@ -141,7 +141,7 @@ accepted:
       affiliation: Università di Genova
     title: Fibrations With Comprehension and Their Completions
     abs: giusto.pdf
-    slot:
+    slot: "3"
     video:
 posters:
   - author:
@@ -180,10 +180,9 @@ posters:
     abs: reimaa.pdf
     video:
   - author:
-      name: Eleftherios 
+      name: Eleftherios
       surname: Chatzitheodoridis
       affiliation: University Of Virginia
     title: Models For Rational ($\infty$, 1)-Categories
     abs: chatzitheodoridis.pdf
     video:
-

@@ -15,6 +15,9 @@ layout: page
 **Note**: all coffee breaks are offered by the organisation, while the lunch is not.
 
 <br>
+{%- assign t = all_talks | where_exp: "item", "item.slot == 3"  -%}
+{{ t }} 
+
 
 <table>
   <tbody>
@@ -27,7 +30,7 @@ layout: page
   <td>{{ slot.time }}</td>
   <td>
     {%- if t -%}
-      <a href="{{ t.abs | prepend: abs_url | relative_url }}" target="_blank">{{ t.author }}</a>
+      <a href="{{ t.abs | prepend: abs_url | relative_url }}" target="_blank">{{ t.author.name }} {{ t.author.surname }}</a>
     {%- else -%}
       TBA
     {%- endif -%}
