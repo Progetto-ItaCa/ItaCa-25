@@ -166,13 +166,6 @@ posters:
     abs: boccali.pdf
     video:
   - author:
-      name: Dennis
-      surname: Frieberg
-      affiliation: Chapman University
-    title: An Equivariant Model For Cubical Type Theory
-    abs: frieberg.pdf
-    video:
-  - author:
       name: Ülo
       surname: Reimaa
       affiliation: University Of Tartu (Estonia)
