@@ -8,7 +8,7 @@ layout: page
 
 ### Venue
 
-Settore Didattico  
+Aula C03 - Settore Didattico  
 Università degli Studi di Milano  
 Via Mangiagalli 25  
 Milano, Italy 
@@ -20,8 +20,41 @@ Milano, Italy
 
 <br> 
 
+### Where to go for lunch
 
-### How to get to Milan.
+- Bar Mida (Shambar), via Botticelli 22, 170m from venue  
+Pub with a limited kitchen, sandwiches and light meals.
+
+- Union Club, via Moretto da Brescia 36, 300m from venue  
+Pub with a limited kitchen, sandwiches and light meals.
+
+- Street food, via Celoria, 400m from venue  
+A number of kiosks offering different choices of street food: dumplings, poke, pizzas etc.
+
+- Kilomangiaro, viale Romagna 58, 400m from venue  
+Take away, with limited seating available. Italian food.
+
+- Strambiosei, via Strambio 6, 450m from venue  
+Restaurant pizzeria, Italian food, meat and fish.
+
+- Il Focacciaro, via Strambio 6, 450m from venue  
+Limited kitchen, sandwiches and light meals.
+
+- New Brand Cafè, via Pascoli 55, 450m from venue  
+Pub with a limited kitchen, sandwiches and light meals.
+
+- Pizza a pezzi, via Aselli 14, 600m from venue  
+Trattoria (casual Italian restaurant), low prices.
+
+- Poli district canteen, inside Leonardo Campus of Politecnico di Milano, piazza Leonardo da Vinci, 600m from venue  
+Typical university canteen, very low prices and quality. 
+
+- ll Veliero, viale Romagna 59, 700m from venue  
+Trattoria (casual Italian restaurant), low prices.
+
+
+
+### How to get to Milan 
  
 Milan is a major city in northern Italy. You can easily get there by plane, train or bus.
  
