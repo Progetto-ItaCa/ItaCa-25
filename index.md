@@ -57,7 +57,8 @@ For inquiries, please send an e-mail to one of the organisers.
 
 ---
 
-<img src="assets/logo-unimi.png" width="65%"/> 
+<img src="assets/MATE_logo.jpg" style="width: 49%"/>
+<img src="assets/DeFENS_logo.jpg" style="width: 49%"/> 
 
 
 
